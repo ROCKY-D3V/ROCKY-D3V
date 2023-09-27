@@ -18,11 +18,6 @@
 [![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://ROCKY-D3V.me)
 
 ---
-## 📊 𝗦𝘁𝗮𝘁𝘀
-
-[![Metrics](./github-metrics.svg)](https://ROCKY-D3V.me)
-
----
 ## 🔗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 
 <!-- png icons from https://iconscout.com/ -->
