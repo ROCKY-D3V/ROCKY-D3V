@@ -85,7 +85,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ---
 
-## 🎵 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴
+## 🎵 𝗡𝗼𝘄 𝗣𝗹𝗮𝘆𝗶𝗻𝗴
 
 [![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31ra5noixnyjlji5sb2ooqqb5c2q)
 
