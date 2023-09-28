@@ -27,12 +27,6 @@
 
 ---
 
-
-## 👨‍💻 𝗟𝗢𝗖
-[![Lines of Code](https://api.githubtrends.io/user/svg/ROCKY-D3V/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://ROCKY-D3V.me)
-
----
-
 ## 🎵 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴
 
 [![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31ra5noixnyjlji5sb2ooqqb5c2q)
