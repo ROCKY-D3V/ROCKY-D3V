@@ -70,8 +70,8 @@
 ## 🔗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 
 <!-- png icons from https://iconscout.com/ -->
-<a href="https://telegram.dog/ROCKY_ISS_BACK" class="padded"><img align="left" alt="ROCKY-D3V" width="32px" src="./res/telegram.png" /></a> 
-<a href="https://instagram.com/mr_._rocky_._01" class="padded"><img align="left" alt="ROCKY-D3V" width="32px" src="./res/instagram.png" /></a> 
+<a href="https://telegram.dog/ROCKY_ISS_BACK" class="padded"><img align="left" alt="ROCKY-D3V" width="40px" src="./res/telegram.png" /></a> 
+<a href="https://instagram.com/mr_._rocky_._01" class="padded"><img align="left" alt="ROCKY-D3V" width="40px" src="./res/instagram.png" /></a> 
 </br>
 
 ---
