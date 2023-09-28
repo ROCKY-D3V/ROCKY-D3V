@@ -8,7 +8,7 @@
 
 ## 𝗪𝗛𝗘𝗥𝗘 𝗧𝗢 𝗙𝗜𝗡𝗗 𝗠𝗘
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/rOcKyD3V)
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ROCKY-D3V)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ROCKY_ISS_BACK)
 ---
 
