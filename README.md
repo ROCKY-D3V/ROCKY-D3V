@@ -15,7 +15,7 @@
 ## 🛠️ 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝗮𝗻𝗱 𝘁𝗼𝗼𝗹𝘀
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=androidstudio,bash,vscode,docker,git,github,linux,heroku,arduino,redis,mongodb,java,html,py,c,ts,js,deno,flutter,fastapi&perline=10)](https://ROCKY-D3V.me)
+[![Languages and Tools](https://skillicons.dev/icons?i=bash,git,github,linux,heroku,arduino,mongodb,java,html,flutter=10)](https://ROCKY-D3V.me)
 
 ---
 ## 🔗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
