@@ -1,5 +1,4 @@
 ## 𝗜𝗡𝗙𝗢
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 нι тʜєяє, I'ɱ ʀσᴄƙყ, 19 ყ.σ. Fɾιєɳᴅℓყ иєιgнвσυянσσᴅ ρяσgяαмєя Fɾσɱ Iɳᴅια 🇮🇳.
 
 - :computer: **I'м ¢υяяєитℓу ωσякιиg σи:**  A мαᴄнιиє ℓєαяиιиg ρяσנє¢т.
@@ -7,9 +6,7 @@
 - :cat: **Fυи Fαᴄƚ:** ɪ ʟɪᴋᴇ _ᴅᴏɢs_
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 𝗪𝗛𝗘𝗥𝗘 𝗧𝗢 𝗙𝗜𝗡𝗗 𝗠𝗘
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+## 𝗪𝗛𝗘𝗥𝗘 𝗧𝗢 𝗙𝗜𝗡𝗗
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/ROCKY-D3V)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ROCKY_ISS_BACK)
 ---
@@ -18,7 +15,6 @@
 # 𝗦𝗸𝗶𝗹𝗹𝘀
 
 ### 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![GO](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
@@ -29,14 +25,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 𝗢𝗦
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗧𝗼𝗼𝗹𝘀
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,7 +39,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,7 +46,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -62,9 +54,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 # 𝗢𝘁𝗵𝗲𝗿 𝘁𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗮𝗽𝗽𝘀 𝘄𝗵𝗶𝗰𝗵 𝗶 𝘂𝘀𝗲
-
-### 𝗕𝗿𝗼𝘄𝘀𝗲𝗿𝘀
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+#𝗕𝗼𝘄𝘀𝗲𝗿'𝘀
 
 ![Firefox](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
@@ -72,7 +62,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 𝗧𝗲𝘅𝘁-𝗘𝗱𝗶𝘁𝗼𝗿𝘀 𝗮𝗻𝗱 𝗜𝗗𝗘𝘀
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -87,7 +76,6 @@
 
 ---
 ## 🔗 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- png icons from https://iconscout.com/ -->
 <a href="https://telegram.dog/ROCKY_ISS_BACK" class="padded"><img align="left" alt="ROCKY-D3V" width="40px" src="./res/telegram.png" /></a> 
@@ -98,7 +86,6 @@
 ---
 
 ## 🎵 𝗡𝗼𝘄 𝗽𝗹𝗮𝘆𝗶𝗻𝗴
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![Spotify](https://spotify-readme-new-lyart.vercel.app/api?theme=dark&rainbow=true&scan=true)](https://open.spotify.com/user/31ra5noixnyjlji5sb2ooqqb5c2q)
 
